@@ -1,7 +1,15 @@
 {
-  "buildCommand": null,
+  "framework": null,
+  "installCommand": "npm install",
+  "buildCommand": "echo 'No build required'",
+  "outputDirectory": ".",
   "cleanUrls": true,
   "trailingSlash": false,
+  "functions": {
+    "api/contact.js": {
+      "runtime": "nodejs18.x"
+    }
+  },
   "headers": [
     {
       "source": "/(.*)",
