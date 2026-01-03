@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ==================== -->
+  <!-- MAIN WEBSITE PAGES   -->
+  <!-- ==================== -->
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://lotuspath.co.za/</loc>
+    <lastmod>2025-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/logo.png</image:loc>
+      <image:title>Lotus Path - Follow the Light of Heritage</image:title>
+    </image:image>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://lotuspath.co.za/about.html</loc>
+    <lastmod>2025-01-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/dan.jpg</image:loc>
+      <image:title>Dan - Founder of Lotus Path</image:title>
+    </image:image>
+  </url>
+
+  <!-- Products Page -->
+  <url>
+    <loc>https://lotuspath.co.za/products.html</loc>
+    <lastmod>2025-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/1.png</image:loc>
+      <image:title>Lord Ganesha Brass Idol</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/2.png</image:loc>
+      <image:title>Lord Ganesha Brass Idol - Compact</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/3.png</image:loc>
+      <image:title>Lord Shiva Brass Idol</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/4.png</image:loc>
+      <image:title>Lord Ganesha Large Brass Idol</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/5.png</image:loc>
+      <image:title>Lord Ganesha Extra Large Brass Idol</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/6.png</image:loc>
+      <image:title>Lord Shiva Compact Brass Idol</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/7.png</image:loc>
+      <image:title>Lord Shiva Medium Brass Idol</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/8.png</image:loc>
+      <image:title>Lord Shiva Large Brass Idol</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/9.png</image:loc>
+      <image:title>Brass Cow Figurine</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/10.png</image:loc>
+      <image:title>Lord Shiva Extra Large Brass Idol</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/11.png</image:loc>
+      <image:title>Lord Krishna with Flute Brass Idol</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/12.png</image:loc>
+      <image:title>Hanuman Brass Idol</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/13.png</image:loc>
+      <image:title>Kali Ma Small Brass Idol</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/Product/14.png</image:loc>
+      <image:title>Kali Ma Large Brass Idol</image:title>
+    </image:image>
+  </url>
+
+  <!-- Gallery Page -->
+  <url>
+    <loc>https://lotuspath.co.za/gallery.html</loc>
+    <lastmod>2025-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/1.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/2.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/3.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/4.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/5.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 5</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/6.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 6</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/7.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 7</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/8.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 8</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/9.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 9</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/10.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 10</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/11.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 11</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/12.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 12</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/13.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 13</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/14.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 14</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lotuspath.co.za/imgs/gallery/15.png</image:loc>
+      <image:title>Lotus Path Product Gallery - Image 15</image:title>
+    </image:image>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://lotuspath.co.za/contact.html</loc>
+    <lastmod>2025-01-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+</urlset>

@@ -1,0 +1,183 @@
+# robots.txt for Lotus Path - Hindu Spiritual Articles
+# Updated: January 2025
+
+# ==========================================
+# GENERAL RULES FOR ALL BOTS
+# ==========================================
+
+User-agent: *
+Allow: /
+
+# Allow full access to main pages
+Allow: /index.html
+Allow: /about.html
+Allow: /products.html
+Allow: /gallery.html
+Allow: /contact.html
+
+# ==========================================
+# SITEMAP LOCATION
+# ==========================================
+
+# Primary sitemap (includes all pages)
+Sitemap: https://lotuspath.co.za/sitemap.xml
+
+# ==========================================
+# BLOCK UNNECESSARY DIRECTORIES
+# ==========================================
+
+# Block backend/admin areas (if any exist)
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+Disallow: /test/
+Disallow: /_next/
+Disallow: /.vercel/
+Disallow: /node_modules/
+
+# Block log files and temporary files
+Disallow: /*.log$
+Disallow: /*.tmp$
+Disallow: /*.bak$
+
+# Block search result pages (if any)
+Disallow: /*?s=
+Disallow: /*&s=
+Disallow: /search
+
+# Block duplicate content
+Disallow: /*?
+Disallow: /*&
+
+# ==========================================
+# ALLOW STATIC RESOURCES
+# ==========================================
+
+# Explicitly allow CSS, JS, and images
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.ico$
+Allow: /*.webp$
+Allow: /*.woff$
+Allow: /*.woff2$
+Allow: /*.ttf$
+Allow: /*.eot$
+Allow: /*.mp4$
+
+# Allow image directories
+Allow: /imgs/
+Allow: /imgs/Product/
+Allow: /imgs/gallery/
+Allow: /assets/
+
+# ==========================================
+# SPECIFIC BOT INSTRUCTIONS
+# ==========================================
+
+# Google Bot - Full access
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Google Image Bot - Allow images
+User-agent: Googlebot-Image
+Allow: /imgs/
+Allow: /assets/
+Crawl-delay: 0
+
+# Bing Bot - Full access
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# ==========================================
+# SOCIAL MEDIA BOTS (For Share Previews)
+# ==========================================
+
+# Facebook Bot - For Open Graph previews
+User-agent: Facebot
+Allow: /
+Crawl-delay: 0
+
+# Twitter Bot - For Twitter Card previews
+User-agent: Twitterbot
+Allow: /
+Crawl-delay: 0
+
+# LinkedIn Bot - For LinkedIn previews
+User-agent: LinkedInBot
+Allow: /
+Crawl-delay: 0
+
+# Pinterest Bot - For Pinterest previews
+User-agent: Pinterestbot
+Allow: /
+Crawl-delay: 0
+
+# ==========================================
+# BAD BOTS (Block malicious crawlers)
+# ==========================================
+
+# Block aggressive crawlers
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: DotBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+# Block spam bots
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+# ==========================================
+# CRAWL OPTIMIZATION
+# ==========================================
+
+# Reduce server load for general bots
+Crawl-delay: 1
+
+# ==========================================
+# NOTES
+# ==========================================
+
+# This robots.txt is optimized for:
+# 1. SEO - Full access for search engines
+# 2. Social Sharing - Bots can preview pages
+# 3. Performance - Rate limiting for aggressive crawlers
+# 4. Security - Blocking malicious bots
+# 5. Product Images - Full indexing of product gallery
+#
+# Last updated: January 2025
+# Website: https://lotuspath.co.za
+# Contact: lotuspathtongaat@gmail.com
