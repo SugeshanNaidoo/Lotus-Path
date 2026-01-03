@@ -1,4 +1,5 @@
 {
+  "buildCommand": null,
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
